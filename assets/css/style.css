@@ -125,12 +125,6 @@ h1, h2, h3, h4, h5, h6 {
 @font-face {
   font-family: "Jokerman";
   src: url("assets/css/Jokerman-Regular.ttf");
-  src: url("//db.onlinewebfonts.com/t/54b9af0b935475d59a4bc1f6cdad764b.eot");
-  src: url("//db.onlinewebfonts.com/t/54b9af0b935475d59a4bc1f6cdad764b.eot?#iefix") format("embedded-opentype"),
-  url("//db.onlinewebfonts.com/t/54b9af0b935475d59a4bc1f6cdad764b.woff2") format("woff2"),
-  url("//db.onlinewebfonts.com/t/54b9af0b935475d59a4bc1f6cdad764b.woff") format("woff"),
-  url("//db.onlinewebfonts.com/t/54b9af0b935475d59a4bc1f6cdad764b.ttf") format("truetype"),
-  url("//db.onlinewebfonts.com/t/54b9af0b935475d59a4bc1f6cdad764b.svg#Jokerman") format("svg");
 }
 #header .logo {
   font-size: 32px;
