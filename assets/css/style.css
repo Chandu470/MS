@@ -123,6 +123,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo {
+  src:url("C:\Users\hi\Documents\GitHub\MS\assets\css\Jokerman-Regular.ttf")
   font-size: 32px;
   margin: 0;
   padding: 0;
